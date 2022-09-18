@@ -2,6 +2,7 @@
 ![Screenshot](Screenshot%202022-09-18%20040414.png)
 ![Screenshot](Screenshot%202022-09-18%20040532.png)
 
+
 # Pokedex
 Pokedex Web  application provides  basic browsing and discovering features of Pokémon's. You can List All Pokémon and Search for Pokemon
 
@@ -30,5 +31,16 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+# Responsive Desktop
+![Screenshot](Nest%20Hub%20Max%20-%20Desktop.png)
+![Screenshot](Nest%20Hub%20Max.png)
+
+# Responsive Mobile
+![Screenshot](Samsung%20Galaxy%20A51_71.png)
+![Screenshot](iPad%20Mini%20-%20Min%20Page.png)
+![Screenshot](iPad%20Mini.png)
+![Screenshot](iPhone%20SE.png)
 
 
