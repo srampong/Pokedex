@@ -11,7 +11,7 @@ Pokedex Web  application provides  basic browsing and discovering features of Po
 - [Next.js](https://nextjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-# Tech stack
+# Approach
   - Identified the web app's purpose
   - Defined the functionality
   - sketched the web app
